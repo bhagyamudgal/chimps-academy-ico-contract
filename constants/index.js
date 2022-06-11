@@ -1,0 +1,5 @@
+// Address of the NFT Contract that you deployed
+const CHIMPS_ACADEMY_NFT_CONTRACT_ADDRESS =
+	"0xb4f859cF8c0DeF6A3704A556C8B412Ad105662Cd";
+
+module.exports = { CHIMPS_ACADEMY_NFT_CONTRACT_ADDRESS };
